@@ -13,7 +13,7 @@ do
   rsync -arhH --info=progress2 ${REPO_PATH}/${i}/. /lib/firmware/${i}/
 done
 
-"cloning firmware for iwlwifi"
+echo "cloning firmware for iwlwifi"
 rsync -arhH --info=progress2 ${REPO_PATH}/iwlwifi-*.{ucode,pnvm} /lib/firmware/
 
 update-initramfs -u -k all
