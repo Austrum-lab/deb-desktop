@@ -6,8 +6,8 @@ Browsers:
 - Floorp - main browser https://floorp.app/en
 - Chromium - for work
 - Chrome - for video/audio conferences
-- Zen browser - currently I want to switch to it for working activites https://zen-browser.app/
-- Junction - useful tool for browser selection https://apps.gnome.org/Junction/
+- Zen browser - currently I want to switch to it for working activities https://zen-browser.app/
+- Junction - a useful tool for browser selection https://apps.gnome.org/Junction/
 
 Office:
 - Onlyoffice - https://www.onlyoffice.com/desktop.aspx
@@ -17,7 +17,7 @@ Text and code editing:
 
 Remote connections:
 - goto (gg) - terminal ssh connection manager https://github.com/grafviktor/goto
-- xpipe - conenction manager https://xpipe.io/
+- xpipe - connection manager https://xpipe.io/
 - Rustdesk - remote access tool https://rustdesk.com/
 - Winbox - mikrotik tool https://flathub.org/apps/com.mikrotik.WinBox
 
@@ -26,15 +26,20 @@ Images and Video Stuff:
 - mpv - video player https://mpv.io/
 
 Sound Stuff:
-- easyeffects https://github.com/wwmm/easyeffects (https://flathub.org/apps/com.github.wwmm.easyeffects)
+- easyeffects - good sound equalizer tool https://github.com/wwmm/easyeffects (https://flathub.org/apps/com.github.wwmm.easyeffects)
 
 Working and productivity stuff:
 - Gnome Calendar - just default Gnome DE Calendar app
 - Evolution - mail client from gnome (currently i'm looking for a replacement - i'm thinking of Thunderbird)
 - Drawio - diagram software
 
-
 Games stuff
 - Steam - i'm using debian version from the repo
-- Heroic launcher - very usefull tool, i didn't launch anything with just raw wine for a while https://heroicgameslauncher.com/
+- Heroic launcher - very useful tool, i didn't launch anything with just raw wine for a while https://heroicgameslauncher.com/
 - ProtonUp-Qt - manage proton versions (for Steam and Heroic) https://davidotek.github.io/protonup-qt/
+- MangoHud - nice overlay for games, i built it from scratch (because prebuilt repo versions does not contain some nvidia libs to work with) https://github.com/flightlessmango/MangoHud
+
+Kernels and firmware:
+- TKG Kernel - it just good https://github.com/Frogging-Family/linux-tkg
+- Firmware repo - just fresh firmware from main repo. Not a software but https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
+
