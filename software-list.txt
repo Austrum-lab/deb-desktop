@@ -1,0 +1,40 @@
+Terminals:
+- Tabby - main terminal https://github.com/eugeny/tabby
+- Gnome Terminal
+
+Browsers:
+- Floorp - main browser https://floorp.app/en
+- Chromium - for work
+- Chrome - for video/audio conferences
+- Zen browser - currently I want to switch to it for working activites https://zen-browser.app/
+- Junction - useful tool for browser selection https://apps.gnome.org/Junction/
+
+Office:
+- Onlyoffice - https://www.onlyoffice.com/desktop.aspx
+
+Text and code editing:
+- VSCodium - open fork for MS VScode https://github.com/VSCodium/vscodium
+
+Remote connections:
+- goto (gg) - terminal ssh connection manager https://github.com/grafviktor/goto
+- xpipe - conenction manager https://xpipe.io/
+- Rustdesk - remote access tool https://rustdesk.com/
+- Winbox - mikrotik tool https://flathub.org/apps/com.mikrotik.WinBox
+
+Images and Video Stuff:
+- Krita - images editing tool https://krita.org/en/
+- mpv - video player https://mpv.io/
+
+Sound Stuff:
+- easyeffects https://github.com/wwmm/easyeffects (https://flathub.org/apps/com.github.wwmm.easyeffects)
+
+Working and productivity stuff:
+- Gnome Calendar - just default Gnome DE Calendar app
+- Evolution - mail client from gnome (currently i'm looking for a replacement - i'm thinking of Thunderbird)
+- Drawio - diagram software
+
+
+Games stuff
+- Steam - i'm using debian version from the repo
+- Heroic launcher - very usefull tool, i didn't launch anything with just raw wine for a while https://heroicgameslauncher.com/
+- ProtonUp-Qt - manage proton versions (for Steam and Heroic) https://davidotek.github.io/protonup-qt/
