@@ -1,10 +1,8 @@
 gnome-calculator
 gnome-calendar
 gnome-characters
-gnome-common
 gnome-contacts
 gnome-control-center
-gnome-core
 gnome-disk-utility
 gnome-firmware
 gnome-font-viewer

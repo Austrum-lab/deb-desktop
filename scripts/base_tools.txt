@@ -30,7 +30,6 @@ nfs-common
 apache2-utils
 lshw
 locales
-firmware-linux
 lsb-release
 debian-archive-keyring
 iputils-ping
