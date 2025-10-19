@@ -1,0 +1,17 @@
+# SYS BTRFS
+LABEL=SYS  /          btrfs  subvol=@,ssd,noatime,compress=zstd:1,space_cache=v2         0 0
+LABEL=SYS  /home      btrfs  subvol=@home,ssd,noatime,compress=zstd:1,space_cache=v2     0 0
+LABEL=SYS  /var/log   btrfs  subvol=@var_log,ssd,noatime,compress=zstd:1,space_cache=v2  0 0
+
+# EFI
+LABEL=EFI  /boot/efi  vfat   umask=0077  0 1
+
+# OPT F2FS
+LABEL=OPT  /opt       f2fs   noatime,lazytime,atgc,gc_merge  0 2
+
+# swap
+/var/swap/swapfile  none  swap  sw  0 0
+
+# BIND MOUNTS
+#/opt/_software/flatpak     /var/lib/flatpak      none  bind,x-systemd.requires-mounts-for=/opt,nofail,x-gvfs-hide  0 0
+#/opt/_software/miniconda3  /home/kaa/miniconda3  none  bind,x-systemd.requires-mounts-for=/opt,nofail,x-gvfs-hide  0 0
